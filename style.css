@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 62.5%;
+}
+
+body {
+  width: 100vw;
+  font-family: Arial, sans-serif;
+  text-indent: 5rem;
+  color: #fff;
+  background: #000000;
+}
+
+.container {
+  width: 96rem;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1 {
+  color: #0000ff;
+  margin: 0 auto;
+}
+
+ul{
+    list-style: none;
+}
+
+.imgcode {
+  background-color: #f1f1f1;
+  padding: 1rem;
+  color: #000000;
+}
+
+figcaption {
+  font-size: 1rem;
+}
